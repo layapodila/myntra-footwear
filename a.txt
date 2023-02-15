@@ -3,3 +3,4 @@
  variable2 = 5
  sum = variable1 + variable2
  print(sum)
+ c= sum
